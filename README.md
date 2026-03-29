@@ -3,10 +3,7 @@
   <img src="./server/LOGO.png" alt="I-Note Logo" width="240"/>
 </p>
 
-<p align="center">
-  <b>Modern SaaS Note Management Application built with MERN Stack</b><br/>
-  Create, manage, and organize notes with task priorities and secure authentication.
-</p>
+
 
 ---
 
