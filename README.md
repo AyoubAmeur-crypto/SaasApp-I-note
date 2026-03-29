@@ -1,7 +1,6 @@
-# I-Note SaaS Application
 
 <p align="center">
-  <img src="./server/LOGO.png" alt="I-Note Logo" width="180"/>
+  <img src="./server/LOGO.png" alt="I-Note Logo" width="240"/>
 </p>
 
 <p align="center">
